@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "GitHub Contribution",
+  "homepage": "https://github.com/vishwakarma-31/GitHub#readme",
+  "bugs": {
+    "url": "https://github.com/vishwakarma-31/GitHub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwakarma-31/GitHub.git"
+  },
+  "license": "ISC",
+  "author": "Aryan Vishwakarma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.27.0"
+  }
+}
